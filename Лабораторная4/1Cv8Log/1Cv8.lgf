@@ -1,0 +1,21 @@
+﻿1CV8LOG(ver 2.0)
+24ee2ee4-b77c-4fc7-9a58-61bde6caf18d
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"MK-201-013",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{3,"1CV8C",2},
+{3,"BackgroundJob",3},
+{4,"_$Transaction$_.Begin",6},
+{4,"_$Data$_.New",7},
+{5,94631add-1242-4ade-957c-2b811e7b07cf,"Справочник.Сотрудники",1},
+{4,"_$Transaction$_.Commit",8},
+{5,6b900d10-fd54-4dcf-b2d1-abe60f408375,"Справочник.Дети",2},
+{4,"_$Data$_.Update",9},
+{5,1886ec51-fd7e-4a35-9cb7-db79405d533d,"РегистрСведений.ОкладыСотрудников",3}
